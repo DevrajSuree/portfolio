@@ -25,6 +25,10 @@ header .logo{
     font-size: 2em;
     font-weight: 700;
     color: #fff;
+    .img-box img{
+    max-width: 100%;
+    height: auto;
+}
 }
 .logo span{
     color: #ff0199;
